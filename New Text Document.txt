@@ -1,0 +1,12 @@
+public class Main
+{
+	public static void main(String[] args) {
+    
+    int people= 170; 
+    
+    if(people>160) (System.out.println(" you can enter ")}
+    
+    else{
+        System.out.println("you can enter ")
+    }
+	
